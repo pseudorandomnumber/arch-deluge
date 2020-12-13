@@ -5,6 +5,9 @@ notes.txt
 # ignore mac generated files
 .DS_Store
 
+# ignore synology generated files
+@eaDir
+
 # ignore pycharm ide
 .idea
 

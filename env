@@ -1,4 +1,5 @@
 TZ=Europe/Zurich
 PUID=1044
 GUID=100
-
+DELUGE_WEB_LOG_LEVEL=warning
+DELUGE_DAEMON_LOG_LEVEL=warning
